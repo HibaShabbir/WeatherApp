@@ -17,7 +17,9 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             A2_20L1271Theme {
-
+                //ComposeArticle()
+                TaskManager()
+                //ComposeQuadrant()
             }
         }
     }
