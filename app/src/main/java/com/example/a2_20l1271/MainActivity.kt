@@ -11,8 +11,9 @@ class MainActivity : ComponentActivity() {
         setContent {
             A2_20L1271Theme {
                 //ComposeArticle()
-                TaskManager()
+                //TaskManager()
                 //ComposeQuadrant()
+                WeatherApp()
             }
         }
     }
